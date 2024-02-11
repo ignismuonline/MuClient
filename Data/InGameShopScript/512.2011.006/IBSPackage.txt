@@ -1,0 +1,65 @@
+31@1@130@Seal of Ascension@170@100@- Increases Experience gained by 5%.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1300|@6699@2@3@1300|1301|1302|@0@508@669
+31@2@131@Seal of Wealth@170@100@- Increases Experience gained by 10%.  #- Increases Drop Rate by 10%.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1310|@6700@2@3@1310|1311|1312|@0@508@669
+31@3@132@Master Seal of Ascension@170@100@- Increases Experience Master gained by 5%.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1320|@6749@2@3@1320|1321|1322|@0@508@669
+31@4@133@Master Seal of Wealth@170@100@- Increases Experience Master gained by 10%.  #- Increases Drop Rate by 10%.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1330|@6750@2@3@1330|1331|1332|@0@508@669
+31@5@139@Party EXP Scroll@170@100@- Increases experience by 3% if taken alone.  #  #- If you take a party for each member, it increases by 3% but until you reach a maximum experience gained of 12%.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1390|@6759@2@3@1390|1391|1392|@0@508@669
+31@6@134@Magic Backpack@170@400@- Increase slots in inventory +32.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@7330@2@1@1340|@0@508@669
+31@7@135@Vault Expansion Certificate@170@400@- Increase slots in Vault +128.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@7331@2@1@1350|@0@508@669
+32@1@116@Scroll of Quickness@170@50@- Attack Speed Increase +15.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@7240@2@3@1160|1161|1162|@0@508@669
+32@2@117@Scroll of Defense@170@50@- Defense Increase +60.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@7241@2@3@1170|1171|1172|@0@508@669
+32@3@118@Scroll of Wrath@170@50@- Attack Power Increase +30.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@7242@2@3@1180|1181|1182|@0@508@669
+32@4@119@Scroll of Wizardry@170@50@- Wizard Dmg Increase +30.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@7243@2@3@1190|1191|1192|@0@508@669
+32@5@120@Scroll of Health@170@50@- HP Increase +200.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@7244@2@3@1200|1201|1202|@0@508@669
+32@6@121@Scroll of Mana@170@50@- Mana Increase +300.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@7245@2@3@1210|1211|1212|@0@508@669
+32@7@122@Scroll of Battle@170@50@- Critical Damage Increase +7%.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@7265@2@3@1220|1221|1222|@0@508@669
+32@8@123@Scroll of Strength@170@50@- Excellent Damage Increase +7%.  #- Need a item with xdmg (weapon , pendant).@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1230|@7266@2@3@1230|1231|1232|@0@508@669
+32@9@124@Scroll of Recovery@170@50@- HP Recovery 3%.    #- Increases HP by +100@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1240|@7308@2@3@1240|1241|1242|@0@508@669
+33@1@100@Devil Square Ticket@170@150@Enable entrance to Devil Square event 10 times.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6702@2@1@1000|@0@508@669
+33@2@101@Blood Castle Ticket@170@150@Enable entrance to Blood Castle event 10 times.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@6703@2@1@1010|@0@508@669
+33@3@103@Illusion Temple Ticket@170@150@Enable entrance to Illusion Temple event 10 times.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@6717@2@1@1030|@0@508@669
+33@4@104@Kalima Ticket@170@150@Enable entrance to Kalima 10 times.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@6704@2@1@1040|@0@508@669
+33@5@105@Moonstone Ring@170@250@Enable entrance to Kanturu Event.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@6694@2@1@1050|@0@508@669
+33@6@106@Gaion's Order@170@250@Enable entrance to Gaion Event.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@7270@2@1@1060|@0@508@669
+33@7@107@Mirror of Dimensions@170@250@Enable entrance to Mirror Event.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7279@2@1@1070|@0@508@669
+34@1@111@Reset Fruit Strength@170@50@Reset Strength Points by 250.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1110|@6710@2@1@1110|@0@508@669
+34@2@112@Reset Fruit Quickness@170@50@Reset Agility Points by 250.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1120|@6711@2@1@1120|@0@508@669
+34@3@113@Reset Fruit Health@170@50@Reset Vitality Points by 250.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6712@2@1@1130|@0@508@669
+34@4@114@Reset Fruit Energy@170@50@Reset Energy Points by 250.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@6713@2@1@1140|@0@508@669
+34@5@115@Reset Fruit Control@170@50@Reset Command Points by 250.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1150|@6714@2@1@1150|@0@508@669
+35@1@108@Demon@170@200@- 40% increase in Dmg & Wizard Dmg.      #- Increase of +10 of Attack Speed.     #- Level to use 28.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6720@2@3@1080|1081|1082|@0@508@669
+35@2@109@Spirit of Guardian@170@200@- Absorbs 30% of the Damage Received.      #- Increase of +50 HP.     #- Level to use 28.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@6721@2@3@1090|1091|1092|@0@508@669
+35@3@110@Pet Unicorn@170@50@- Increases Zen Acquired by +50%.     #- Increases Defense +50.      #- Collects Zen Automatically.       #- Use Level from Level 28.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6762@2@3@1100|1101|1102|@0@508@669
+36@1@125@Elixir of Strength@170@50@- Strength Increase +50.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1250|@7246@2@3@1250|1251|1252|@0@508@669
+36@2@126@Elixir of Agility@170@50@- Agility Increase +50.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1260|@7247@2@3@1260|1261|1262|@0@508@669
+36@3@127@Elixir of Health@170@50@- Vitality Increase +50.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1270|@7248@2@3@1270|1271|1272|@0@508@669
+36@4@128@Elixir of Energy@170@50@- Energy Increase +50.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1280|@7249@2@3@1280|1281|1282|@0@508@669
+36@5@129@Elixir of Control@170@50@- Command Increase +50.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1290|@7250@2@3@1290|1291|1292|@0@508@669
+36@6@102@Max SD Boost Aura@170@100@- Increases SD by 2000.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@6761@2@3@1020|1021|1022|@0@508@669
+36@7@136@Max AG Boost Aura@170@100@- Increases AG by 3200.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1360|@6760@2@3@1360|1361|1362|@0@508@669
+37@1@137@Silver Key@170@150@- Used to unlock a Sealed Silver Box, via NPC Chaos Goblin Machine.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@7280@2@1@1370|@0@508@669
+37@2@138@Gold Key@170@150@- Used to unlock a Sealed Golden Box, via NPC Chaos Goblin Machine.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1380|@7281@2@1@1380|@0@508@669
+37@3@140@Talisman of Luck@170@50@- Increases the probability of success in Chaos Machine combinations 1%, max talisman number 10.@@182@184@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1400|@7221@2@1@1400|@0@508@669
+61@1@142@Reset Fruit Strength@170@300@Reset Strength Points by 250.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1420|@6710@5@1@1420|@1@0@669
+61@2@143@Reset Fruit Quickness@170@300@Reset Agility Points by 250.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1430|@6711@5@1@1430|@1@0@669
+61@3@144@Reset Fruit Health@170@300@Reset Vitality Points by 250.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1440|@6712@5@1@1440|@1@0@669
+61@4@145@Reset Fruit Energy@170@300@Reset Energy Points by 250.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1450|@6713@5@1@1450|@1@0@669
+61@5@146@Reset Fruit Control@170@300@Reset Command Points by 250.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1460|@6714@5@1@1460|@1@0@669
+62@1@147@Scroll of Quickness@170@100@- Attack Speed Increase +15.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1470|@7240@5@1@1470|@1@0@669
+62@2@148@Scroll of Defense@170@100@- Defense Increase +60.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1480|@7241@5@1@1480|@1@0@669
+62@3@149@Scroll of Wrath@170@100@- Attack Power Increase +30.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1490|@7242@5@1@1490|@1@0@669
+62@4@150@Scroll of Wizardry@170@100@- Wizard Dmg Increase +30.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1500|@7243@5@1@1500|@1@0@669
+62@5@151@Scroll of Health@170@100@- HP Increase +200.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1510|@7244@5@1@1510|@1@0@669
+62@6@152@Scroll of Mana@170@100@- Mana Increase +300.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1520|@7245@5@1@1520|@1@0@669
+62@7@153@Scroll of Battle@170@100@- Critical Damage Increase +7%.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1530|@7265@5@1@1530|@1@0@669
+62@8@154@Scroll of Strength@170@100@- Excellent Damage Increase +7%.  #- Need a item with xdmg (weapon , pendant).@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1540|@7266@5@1@1540|@1@0@669
+62@9@155@Scroll of Recovery@170@100@- HP Recovery 3%.     #- Increases HP by +100@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1550|@7308@5@1@1550|@1@0@669
+63@1@156@Demon@170@200@- 40% increase in Dmg & Wizard Dmg.        #- Increase of +10 of Attack Speed.       #- Level to use 28.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1560|@6720@5@1@1560|@1@0@669
+63@2@157@Spirit of Guardian@170@200@- Absorbs 30% of the Damage Received.       #- Increase of +50 HP.           #- Level to use 28.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1570|@6721@5@1@1570|@1@0@669
+63@3@158@Pet Unicorn@170@100@- Increases Zen Acquired by +50%.     #- Increases Defense +50.      #- Collects Zen Automatically.       #- Use Level from Level 28.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1580|@6762@5@1@1580|@1@0@669
+64@1@159@Elixir of Strength@170@100@- Strength Increase +50.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1590|@7246@5@1@1590|@1@0@669
+64@2@160@Elixir of Agility@170@100@- Agility Increase +50.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1600|@7247@5@1@1600|@1@0@669
+64@3@161@Elixir of Health@170@100@- Vitality Increase +50.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1610|@7248@5@1@1610|@1@0@669
+64@4@162@Elixir of Energy@170@100@- Energy Increase +50.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1620|@7249@5@1@1620|@1@0@669
+64@5@163@Elixir of Control@170@100@- Command Increase +50.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1630|@7250@5@1@1630|@1@0@669
+65@1@165@Max SD Boost Aura@170@1@- Increases Experience gained by 5%.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1650|@6761@5@3@1650|1651|1652|@1@0@669
+65@2@166@Max AG Boost Aura@170@1@- Increases Experience gained by 5%.@@182@184@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1660|@6760@5@3@1660|1661|1662|@1@0@669
